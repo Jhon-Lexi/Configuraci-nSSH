@@ -6,3 +6,6 @@ clip < ~/.ssh/id_25519
 
 git remote -v
 git remote rm origin
+
+git status "ver estado del repositorio"
+git commit -m "para comitear el repositorio"
